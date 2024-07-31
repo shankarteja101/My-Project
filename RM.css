@@ -1,0 +1,281 @@
+*{margin:0;
+    font-family: arial;
+    border: border-box;
+    }
+    .navbar{height:60px;
+        background-color: black;
+        color: white;
+        display: flex;
+        align-items: center;
+        margin-right: 5px;
+        justify-content: space-evenly;
+    
+        
+    }
+    
+    
+    .nav-logo{height: 50px;width: 100px;
+        
+    }
+    .nav-logo :hover{border: 1.5px solid white;}
+    .logo{background-image: url("amazon_logo.png");
+    background-size: cover;
+    height: 50px;
+    width: 100%;}
+    
+    
+    .border:hover{border: 1.5px solid white;}
+    
+    
+    .add-1{font-size: 0.85rem;
+    color: #cccccc; 
+    margin-left: 15px;}
+    
+    
+    
+    .add-2{font-size: 1rem;
+        margin-left: 3px;
+    }
+    
+    
+    
+    .icon{display: flex; 
+    align-items: center;}
+    
+    
+    .search{display: flex;
+    background-color: aqua;
+    width: 620px;
+    height: 40px;
+    border-radius: 4px;
+    justify-content: space-evenly;
+    }
+    .search :hover{border:2px solid rgb(123, 255, 0)}
+    .select{ background-color: #ffffff;
+        text-align: center;
+        border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border: none;
+    align-items: center;
+    width: 50px;}
+    
+    
+    .input{width: 100%; 
+        font-size: 1rem;
+        border: none;
+    }
+    
+    .search-icon{width: 40px;
+    background-color: rgb(85, 255, 0);
+    border: none;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    color: #0f1111 ;}
+    .sign{background-color: black;
+    border: none;}
+    
+    
+    .option{background-color: black;
+         color: white; 
+         font-size: 0.85rem;
+         font-weight: 700px;
+         }
+         .cart i{font-size: 30px;}
+         .cart{font-size: 0.85rem;
+        font-weight: 700px;}
+    
+    
+    
+        .panel{background-color: gray;
+        height: 40px;
+        display: flex;
+        align-items: center;
+    justify-content: space-evenly;}
+    
+    .remaining a{display: inline;
+    margin-left: 15px;}
+    .remaining{width: 70%;
+    font-size: 0.85rem;}
+    
+    .endpanel{font-size: 0.9rem;
+    font-weight: 700px;}
+
+    .hero{background-image:url(hero_image.jpg);
+        height:350px ; 
+        background-size: cover;
+        display: flex;
+    justify-content: center;
+    align-items:flex-end ;
+    }
+    
+    
+    
+    .hero-msg{background-color: white;
+    color: black;
+    height: 40px;
+display: flex;
+align-items: center;
+justify-content: center;
+font-size: 0.85rem;
+width: 80%;
+margin-bottom: 25px;
+}
+
+.hero-msg a{color: #007185;}
+
+
+.content{display: flex;
+    flex-wrap: wrap;
+justify-content: space-evenly;
+background-color:#e2e7e6;
+height: 1000px; }
+.image{height: 300px;
+    background-size: cover;
+margin-left: 10px;
+margin-right: 10px;
+margin-top: 1rem;
+margin-bottom:1rem;
+}
+
+footer{margin-top: 15px;}
+
+
+
+
+
+
+#box1{background-color: #ffffff;
+    color: black;
+    margin-top: 20px;
+    background-size: contain;
+    font-size: 1rem;
+    height: 400px;
+    width: 23%;
+    padding: 20px 0px 18px;
+    
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+    
+    #box2{background-color: #ffffff;
+        color: black;
+        font-size: 1rem;
+        height: 400px;
+        width: 23%;
+        
+        margin-top: 20px;
+        padding: 20px 0px 18px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+    
+        #box3{background-color: #ffffff;
+            color: black;
+            font-size: 1rem;
+            height: 400px;
+            width: 23%;
+            padding: 20px 0px 15px;
+            margin-top: 20px;
+       
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+    
+            #box4{background-color: #ffffff;
+                color: black;
+                font-size: 1rem;
+                padding: 20px 0px 18px;
+                margin-top: 20px;
+                height: 400px;
+                width: 23%;
+        
+                font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+    
+                #box5{background-color: #ffffff;
+                    color: black;
+                    font-size: 1rem;
+                    height: 400px;
+                    width: 23%;
+                    padding: 20px 0px 18px;
+                    margin-top: 20px;
+      
+                    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+    
+                    #box6{background-color: #ffffff;
+                        color: black;
+                        font-size: 1rem;
+                        height: 400px;
+                    width: 23%;
+                        padding: 20px 0px 18px;
+                    margin-top: 20px;
+    
+                        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+    
+                        #box7{background-color: #ffffff;
+                            color: black;
+                            font-size: 1rem;
+                            height: 400px;
+                            width: 23%;
+                            padding: 20px 0px 18px;
+                    margin-top: 20px;
+      
+                            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+    
+                            #box8{background-color: #ffffff;
+                                color: black;
+                                font-size: 1rem;
+                                height: 400px;
+                                width: 23%;
+                                padding: 20px 0px 18px;
+                    margin-top: 20px;
+     
+                                font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+    
+                                .panel_1{background-color: #37475a;
+                                    color: white; 
+                                    height: 50px;
+                                    display: flex;
+                                justify-content: center; 
+                                align-items: center;
+                                font-size: 0.85rem;}
+
+                                .panel_2 {
+                                    background-color: #222f3d;
+                                     color: white;
+                                     height: 500px;
+                                     display: flex;
+                                     justify-content: space-evenly;
+                                     }
+                                     ul{margin-top: 40px;}
+                                     ul a{display: block;
+                                     font-size: 1rem;
+                                 margin-top: 10px;
+                                 color: #dddddd;}
+                                 
+
+                                 .panel_3{background-color: #222f3d;
+                                    background-size: cover;
+                                    height: 70px;
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+                                     
+                                
+                                }
+                                .logo{background-image: url("amazon_logo.png");
+                                    background-size: cover;
+                                    height: 50px;
+                                    width: 100px;}
+                                
+                                    .panel_4{background-color: #0f1111;
+                                        height: 100px;
+                                        color: white;
+                                    display: flex; justify-content:center;
+                                    align-items: center; text-decoration: none;}
+                                    
+                                    .pages{font-size: 0.7rem; text-align: center;
+                                    padding-top: 25px;}
+                                 
+                                
+                                
+                                
+                                
+                                    
